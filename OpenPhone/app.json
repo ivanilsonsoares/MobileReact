@@ -1,0 +1,12 @@
+{
+  "name": "OpenPhoneNumberInDialScreen",
+  "displayName": "OpenPhoneNumberInDialScreen",
+  "expo": {
+    "name": "OpenPhoneNumberInDialScreen",
+    "slug": "OpenPhoneNumberInDialScreen",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
